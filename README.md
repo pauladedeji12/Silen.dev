@@ -39,8 +39,8 @@ silen/
 
 ## 📬 Connect
 
-- **X / Twitter:** [@silen](https://twitter.com/silen)
-- **GitHub:** [github.com/silen](https://github.com/silen)
+- **X / Twitter:** [@silen](https://twitter.com/psilen)
+- **GitHub:** [github.com/silen](https://github.com/itpsilen)
 
 ---
 
